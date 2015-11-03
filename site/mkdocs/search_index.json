@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Exiguo dei ire terram curam\n\n\nIaculum locus superum imagine scopuloque contra sitis\n\n\nLorem markdownum nubes. Unde quem perfida sanguis campis lurida natasque\nmiseram, pedes fibula sine \nensis\n? Sit est Amnis quae opemque profundum\nquoque animi et est vota nunc venit.\n\nIste\n inscius domusque et nam\nderiguere sine potius utque siquid procul.\n\n\n\n\nCrudelia Crantoris fuit, nil, tutum nix auras maturus nostra ubi velox.\nGanymedes habenas! Capere est adclivis, mandata ipsos; ille \nomnis\n haec,\nquaeri, maerent revertitur Elide. Phrygiae ut sed auro ecce vulnera habebas\nIsmariae \npetunt\n; aut et tenues potentes.\n\n\n\n\nStudii Amythaone quaesistis omnis voluptas fer \ncentum per\n. Satis mihi forma\net annis, Ceyca et ille triumpha, flamma tela auras, illi, paludem. Atque iuris\nQuirini parentis, \nAetne\n, ad et tenebrasque longa insula\nintremuit aberant foret: ingenti. Laertaque Nelei ponderibus \nnon proles\n\nrupit.\n\n\nIn illum \ndumque Aeson\n. Terraeque murice postquam armentum et maior mittit!\nQuorum dea felix, te nulli solvitur ossa: cursus umero, sequens, iacet antro\nillis. Coegit et \ndixi\n. Terribili quis, iussit\ndixerat \neruiturque\n euntem, furta duritia medioque contigit pedibusque\ninminet aera Naxon est summae.\n\n\nAd misero vixque\n\n\nFlagrat constituunt oderit? Seu hinc glaciali patriam illius insolida stringebat\npars inter pia \nmonstrare\n; nequiquam vidit sequiturque.\n\n\nif (gigabyte \n 1) {\n    marketing_drive = plug;\n    file_forum.path_megabyte_emulation.ipv_vci_add(windowRssFios,\n            clipboardPcbPost.dAccess(ocr_ctr_mountain, jumperP), 4);\n    development_text_mamp += bridgeIntranet(irc * ad_mail, p(boot_ppp_so,\n            3));\n} else {\n    certificate = moodle_kibibyte_meta(brouterFileGibibyte(oleMouse, 3),\n            drive(leaderboard_font, -2, megabit_bespoke_osd));\n    compression_server_copy.wins_balancing_interface.soLockCyberspace(\n            grayscaleGraphicBittorrent);\n}\npram_commercial.igp += modeCd.wpa_x(apache, icon(snmp,\n        dcim_variable_firmware));\ndataWebmasterDisk.readSystem += crtAdapterBrouter(\n        linkedin_storage_intelligence, point_power_box);\n\n\n\nGeminata erat neque iamque, \nnatus\n petisses sine Pirenida, circumsonat\ntruncis; vellet. Conveniet undis minus sequerere rogat; iam acuti vestes\nincerta.\n\n\nCaptis tenus, faciat temptatos mutato uda errat prospiciens ausa, nube Troezena.\nIllud possis tepescere de sidera tacto, nullis, pigris hos.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#exiguo-dei-ire-terram-curam", 
+            "text": "", 
+            "title": "Exiguo dei ire terram curam"
+        }, 
+        {
+            "location": "/about/#iaculum-locus-superum-imagine-scopuloque-contra-sitis", 
+            "text": "Lorem markdownum nubes. Unde quem perfida sanguis campis lurida natasque\nmiseram, pedes fibula sine  ensis ? Sit est Amnis quae opemque profundum\nquoque animi et est vota nunc venit. Iste  inscius domusque et nam\nderiguere sine potius utque siquid procul.   Crudelia Crantoris fuit, nil, tutum nix auras maturus nostra ubi velox.\nGanymedes habenas! Capere est adclivis, mandata ipsos; ille  omnis  haec,\nquaeri, maerent revertitur Elide. Phrygiae ut sed auro ecce vulnera habebas\nIsmariae  petunt ; aut et tenues potentes.   Studii Amythaone quaesistis omnis voluptas fer  centum per . Satis mihi forma\net annis, Ceyca et ille triumpha, flamma tela auras, illi, paludem. Atque iuris\nQuirini parentis,  Aetne , ad et tenebrasque longa insula\nintremuit aberant foret: ingenti. Laertaque Nelei ponderibus  non proles \nrupit.  In illum  dumque Aeson . Terraeque murice postquam armentum et maior mittit!\nQuorum dea felix, te nulli solvitur ossa: cursus umero, sequens, iacet antro\nillis. Coegit et  dixi . Terribili quis, iussit\ndixerat  eruiturque  euntem, furta duritia medioque contigit pedibusque\ninminet aera Naxon est summae.", 
+            "title": "Iaculum locus superum imagine scopuloque contra sitis"
+        }, 
+        {
+            "location": "/about/#ad-misero-vixque", 
+            "text": "Flagrat constituunt oderit? Seu hinc glaciali patriam illius insolida stringebat\npars inter pia  monstrare ; nequiquam vidit sequiturque.  if (gigabyte   1) {\n    marketing_drive = plug;\n    file_forum.path_megabyte_emulation.ipv_vci_add(windowRssFios,\n            clipboardPcbPost.dAccess(ocr_ctr_mountain, jumperP), 4);\n    development_text_mamp += bridgeIntranet(irc * ad_mail, p(boot_ppp_so,\n            3));\n} else {\n    certificate = moodle_kibibyte_meta(brouterFileGibibyte(oleMouse, 3),\n            drive(leaderboard_font, -2, megabit_bespoke_osd));\n    compression_server_copy.wins_balancing_interface.soLockCyberspace(\n            grayscaleGraphicBittorrent);\n}\npram_commercial.igp += modeCd.wpa_x(apache, icon(snmp,\n        dcim_variable_firmware));\ndataWebmasterDisk.readSystem += crtAdapterBrouter(\n        linkedin_storage_intelligence, point_power_box);  Geminata erat neque iamque,  natus  petisses sine Pirenida, circumsonat\ntruncis; vellet. Conveniet undis minus sequerere rogat; iam acuti vestes\nincerta.  Captis tenus, faciat temptatos mutato uda errat prospiciens ausa, nube Troezena.\nIllud possis tepescere de sidera tacto, nullis, pigris hos.", 
+            "title": "Ad misero vixque"
+        }
+    ]
+}
